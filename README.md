@@ -1,7 +1,7 @@
 # Exercício Programa: Pong!
 
 Implementação em Java do clássico jogo Pong, desenvolvido como exercício de programação
-
+É um fork.
 ![Pong!](pong.gif)
 
 ## Instalação
